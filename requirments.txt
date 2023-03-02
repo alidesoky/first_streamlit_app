@@ -1,4 +1,5 @@
-snowflake-connector-python[pandas] or snowflake-connector-python[pandas]pyarrow<8.1.0,>=8.0.0 or snowflake-connector-python
+snowflake-connector-python[pandas] pyarrow<8.1.0,>=8.0.0
+
 
 cffi==1.15.0
 
