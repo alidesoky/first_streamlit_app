@@ -75,7 +75,5 @@ if streamlit.button('add a fruit to the list')
           back_from_function= insert_raw_snowflake(add_my_fruit)
           streamlit.text(back_from_function)
           
-streamlit.header("Fruityvice Fruit Advice!")
 
-streamlit.write('Thanks for adding', add_my_fruit)
 
